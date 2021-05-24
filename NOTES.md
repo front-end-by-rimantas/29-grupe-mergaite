@@ -3,7 +3,7 @@
 - [x] pradine failu struktura:
   - index.html
   - .gitignore
-- [ ] paviesinti projekta per Github Pages (gausim URL)
+- [x] paviesinti projekta per Github Pages (gausim URL)
 - [ ] README.md
   - skirta aprasyti kas, ka ir kodel daro
   - iterpti nuoroda i daroma dizaina
