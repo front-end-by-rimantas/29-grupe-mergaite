@@ -1,19 +1,50 @@
-header {
-  background-color: red;
+body {
+  background-color: #f8f8f8;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-main {
-  background-color: yellow;
+header {
+  display: inline-block;
+  width: 800px;
+  margin-left: calc((100% - 800px) / 2);
+}
+
+header > img {
+  float: left;
 }
 
 nav {
+  float: right;
+}
+
+a {
+}
+
+main {
+  display: inline-block;
+  width: 800px;
+  margin-left: calc((100% - 800px) / 2);
+  background-color: yellow;
+}
+
+div {
+  width: 40%;
+  float: left;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
   background-color: blue;
 }
 
 h1 {
-  background-color: pink;
 }
 
 p {
-  background-color: black;
+}
+
+main > img {
+  width: 50%;
+  float: left;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  background-color: red;
 }
