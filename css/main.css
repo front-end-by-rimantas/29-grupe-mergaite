@@ -17,7 +17,7 @@ header > img {
 
 nav {
   float: right;
-  margin-top: 5px;
+  margin-top: 7px;
 }
 
 a {
@@ -29,8 +29,8 @@ a {
   font-size: 20px;
   line-height: 20px;
   text-decoration: none;
-  border: 5px solid transparent;
-  /* border-radius: ; */
+  border: 3px solid transparent;
+  border-radius: 18px;
 }
 a:last-of-type {
   border-color: #9d9d9d;
